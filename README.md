@@ -1,1 +1,3 @@
 # linux
+boot process
+runlevels 
